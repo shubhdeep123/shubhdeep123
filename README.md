@@ -1,4 +1,4 @@
-<h2 align="center">Hey, Raveena Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hey, Shubhdeep Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
   - :school: I'm Third Year Undergrad Student<br>
   - :computer: Computer Science Stream<br>
   - :smile: Open Source Enthusiast<br>
@@ -18,7 +18,7 @@
 </a>
 </p> 
 
-[![Raveena's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhdeep123&show_icons=true)](https://github.com/shubhdeep123/github-readme-stats)
+[![Shubhdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhdeep123&show_icons=true)](https://github.com/shubhdeep123/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhdeep123&layout=compact)](https://github.com/shubhdeep123/github-readme-stats)
 <h2 align="center">Git-Hub Streak !! :fire:</h2> 
 <p  align="center">
