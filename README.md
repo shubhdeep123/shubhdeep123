@@ -16,6 +16,9 @@
 <a href="mailto:shubhdeepsharma213@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+  <a href="https://twitter.com/shubhdeep_03">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p> 
 
 [![Shubhdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhdeep123&show_icons=true)](https://github.com/shubhdeep123/github-readme-stats)
